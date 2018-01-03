@@ -1,0 +1,63 @@
+C:\Users\RP4K\Desktop\DonkeykongRT\DonkeykongRT\bin\Debug\DonkeykongRT.exe
+C:\Users\RP4K\Desktop\DonkeykongRT\DonkeykongRT\bin\Debug\DonkeykongRT.pdb
+C:\Users\RP4K\Desktop\DonkeykongRT\DonkeykongRT\bin\Debug\DonkeykongRT.xml
+C:\Users\RP4K\Desktop\DonkeykongRT\DonkeykongRT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RP4K\Desktop\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.Mainform.resources
+C:\Users\RP4K\Desktop\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.Resources.resources
+C:\Users\RP4K\Desktop\DonkeykongRT\DonkeykongRT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RP4K\Desktop\DonkeykongRT\DonkeykongRT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RP4K\Desktop\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.exe
+C:\Users\RP4K\Desktop\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.xml
+C:\Users\RP4K\Desktop\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.pdb
+C:\Users\RP4K\Desktop\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.youdieform.resources
+C:\Users\RP4K\Desktop\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.youwinForm.resources
+C:\Users\RP4K\Desktop\DK Pokemon RT\DonkeykongRT\bin\Debug\DonkeykongRT.exe
+C:\Users\RP4K\Desktop\DK Pokemon RT\DonkeykongRT\bin\Debug\DonkeykongRT.pdb
+C:\Users\RP4K\Desktop\DK Pokemon RT\DonkeykongRT\bin\Debug\DonkeykongRT.xml
+C:\Users\RP4K\Desktop\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RP4K\Desktop\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.Mainform.resources
+C:\Users\RP4K\Desktop\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.Resources.resources
+C:\Users\RP4K\Desktop\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.youdieform.resources
+C:\Users\RP4K\Desktop\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.youwinForm.resources
+C:\Users\RP4K\Desktop\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RP4K\Desktop\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RP4K\Desktop\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.exe
+C:\Users\RP4K\Desktop\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.xml
+C:\Users\RP4K\Desktop\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.pdb
+E:\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.exe
+E:\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.xml
+E:\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.pdb
+E:\DK Pokemon RT\DonkeykongRT\bin\Debug\DonkeykongRT.exe
+E:\DK Pokemon RT\DonkeykongRT\bin\Debug\DonkeykongRT.pdb
+E:\DK Pokemon RT\DonkeykongRT\bin\Debug\DonkeykongRT.xml
+E:\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.Mainform.resources
+E:\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.Resources.resources
+E:\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.youdieform.resources
+E:\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.youwinForm.resources
+E:\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\willi\Documents\Programming\RP4K\DK Pokemon RT\DonkeykongRT\bin\Debug\DonkeykongRT.exe
+C:\Users\willi\Documents\Programming\RP4K\DK Pokemon RT\DonkeykongRT\bin\Debug\DonkeykongRT.pdb
+C:\Users\willi\Documents\Programming\RP4K\DK Pokemon RT\DonkeykongRT\bin\Debug\DonkeykongRT.xml
+C:\Users\willi\Documents\Programming\RP4K\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.vbprojResolveAssemblyReference.cache
+C:\Users\willi\Documents\Programming\RP4K\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.Mainform.resources
+C:\Users\willi\Documents\Programming\RP4K\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.Resources.resources
+C:\Users\willi\Documents\Programming\RP4K\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.youdieform.resources
+C:\Users\willi\Documents\Programming\RP4K\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.youwinForm.resources
+C:\Users\willi\Documents\Programming\RP4K\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.vbproj.GenerateResource.Cache
+C:\Users\willi\Documents\Programming\RP4K\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.exe
+C:\Users\willi\Documents\Programming\RP4K\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.xml
+C:\Users\willi\Documents\Programming\RP4K\DK Pokemon RT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.pdb
+C:\Users\willi\Documents\Programming\RP4K\DonkeykongRT\DonkeykongRT\bin\Debug\DonkeykongRT.exe
+C:\Users\willi\Documents\Programming\RP4K\DonkeykongRT\DonkeykongRT\bin\Debug\DonkeykongRT.pdb
+C:\Users\willi\Documents\Programming\RP4K\DonkeykongRT\DonkeykongRT\bin\Debug\DonkeykongRT.xml
+C:\Users\willi\Documents\Programming\RP4K\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.vbprojResolveAssemblyReference.cache
+C:\Users\willi\Documents\Programming\RP4K\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.Mainform.resources
+C:\Users\willi\Documents\Programming\RP4K\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.Resources.resources
+C:\Users\willi\Documents\Programming\RP4K\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.youdieform.resources
+C:\Users\willi\Documents\Programming\RP4K\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.youwinForm.resources
+C:\Users\willi\Documents\Programming\RP4K\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.vbproj.GenerateResource.Cache
+C:\Users\willi\Documents\Programming\RP4K\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.exe
+C:\Users\willi\Documents\Programming\RP4K\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.xml
+C:\Users\willi\Documents\Programming\RP4K\DonkeykongRT\DonkeykongRT\obj\x86\Debug\DonkeykongRT.pdb
